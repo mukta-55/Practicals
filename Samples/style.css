@@ -4,4 +4,12 @@ nav #ul_nav{
      justify-content: space-evenly;
      margin: 5px;
      padding: 5px;
+     color:white;
 }
+ header{
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 25px 25px 25px 25px;
+    background-color: darkcyan;
+ }
