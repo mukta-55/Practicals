@@ -11,5 +11,11 @@ nav #ul_nav{
     margin: 5px;
     border: 2px solid black;
     border-radius: 25px 25px 25px 25px;
-    background-color: darkcyan;
+    background-color:darksalmon
+ }
+ #s1{
+    font-size: 1100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
+    text-align: center;
  }
