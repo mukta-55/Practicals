@@ -5,6 +5,7 @@ nav #ul_nav{
      margin: 5px;
      padding: 5px;
      color:white;
+     text-decoration: none;
 }
  header{
     padding: 5px;
@@ -27,10 +28,11 @@ nav #ul_nav{
     text-indent: 5px;
  }
 
- th,td{
+#tabla, th,td{
    border: 2px solid black;
    border-collapse: collapse;
    padding:5px;
    margin: 5px;
+   background-color: darkolivegreen;
 
  }
