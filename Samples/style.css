@@ -26,3 +26,11 @@ nav #ul_nav{
     background-color: ivory;
     text-indent: 5px;
  }
+
+ th,td{
+   border: 2px solid black;
+   border-collapse: collapse;
+   padding:5px;
+   margin: 5px;
+
+ }
