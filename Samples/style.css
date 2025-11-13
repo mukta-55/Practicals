@@ -1,38 +1,38 @@
-nav #ul_nav{
-     list-style-type: none ;
-     display: flex;
-     justify-content: space-evenly;
-     margin: 5px;
-     padding: 5px;
-     color:white;
-     text-decoration: none;
+nav #ul_nav {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+
+  color: white;
+  text-decoration: none;
 }
- header{
-    padding: 5px;
-    margin: 5px;
-    border: 2px solid black;
-    border-radius: 25px 25px 25px 25px;
-    background-color:darksalmon
- }
- #s1{
-    font-size: 1100;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    justify-content: center;
-    text-align: center;
- }
- h4{
-    text-align: center;
- }
- #Practicals{
-    background-color: ivory;
-    text-indent: 5px;
- }
+header {
+  padding: 5px;
+  margin: 5px;
+  border: 2px solid black;
+  border-radius: 25px 25px 25px 25px;
+  background-color: darksalmon;
+}
+#s1 {
+  font-size: 1100;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  justify-content: center;
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+#Practicals {
+  background-color: ivory;
+  text-indent: 5px;
+}
 
-#tabla, th,td{
-   border: 2px solid black;
-   border-collapse: collapse;
-   padding:5px;
-   margin: 5px;
-   background-color: darkolivegreen;
-
- }
+#tabla,
+th,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+  margin: 5px;
+  background-color: darkolivegreen;
+}
